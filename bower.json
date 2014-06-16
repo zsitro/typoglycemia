@@ -9,7 +9,7 @@
         ".bowerrc",
         ".jshintignore",
         ".jshintrc",
-        "package.json",
+        "package.json"
     ],
     "dependencies": {
     },
