@@ -7,12 +7,12 @@ Install `npm install typoglycemia` or `bower install typoglycemia`
 
 Example:
 
-```
+```javascript
 require('typoglycemia')('Some weird text')
 ```
 
 results:
 
-```
-Smoe werid text
+```javascript
+'Smoe werid text'
 ```
