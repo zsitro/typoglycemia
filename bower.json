@@ -1,0 +1,18 @@
+{
+    "name": "typoglycemia",
+    "version": "0.0.1",
+    "main": "index.js",
+    "ignore": [
+        ".gitignore",
+        "node_modules",
+        "bower.json",
+        ".bowerrc",
+        ".jshintignore",
+        ".jshintrc",
+        "package.json",
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
