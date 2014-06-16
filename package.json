@@ -1,0 +1,10 @@
+{
+  "name": "typoglycemia",
+  "description": "Typoglycemia infleciton",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zsitro/typoglycemia"
+  },
+  "license": "WTFPL"
+}
